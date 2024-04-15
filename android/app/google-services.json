@@ -1,0 +1,227 @@
+{
+  "project_info": {
+    "project_number": "843611395709",
+    "firebase_url": "https://codecraft-ca43a-default-rtdb.firebaseio.com",
+    "project_id": "codecraft-ca43a",
+    "storage_bucket": "codecraft-ca43a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843611395709:android:648a22fbdf25752f3c0314",
+        "android_client_info": {
+          "package_name": "com.codecraft.canada_iptv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843611395709-7plnbss01a57kqov7cud1eovbsnevlbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClDuaUdFOMa9506R2BprgjEOvBa1dW2EE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843611395709-7plnbss01a57kqov7cud1eovbsnevlbn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "843611395709-33cooo7519cvfhghacvet2jutos4g4hj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fredtheedev.ntvApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843611395709:android:fa4a354fc4525cdc3c0314",
+        "android_client_info": {
+          "package_name": "com.codecraft.usa_iptv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843611395709-7plnbss01a57kqov7cud1eovbsnevlbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClDuaUdFOMa9506R2BprgjEOvBa1dW2EE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843611395709-7plnbss01a57kqov7cud1eovbsnevlbn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "843611395709-33cooo7519cvfhghacvet2jutos4g4hj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fredtheedev.ntvApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843611395709:android:45dad3b8cef90cf33c0314",
+        "android_client_info": {
+          "package_name": "com.danledev.latestmovieshub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843611395709-7plnbss01a57kqov7cud1eovbsnevlbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClDuaUdFOMa9506R2BprgjEOvBa1dW2EE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843611395709-7plnbss01a57kqov7cud1eovbsnevlbn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "843611395709-33cooo7519cvfhghacvet2jutos4g4hj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fredtheedev.ntvApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843611395709:android:fc8be2f42876979b3c0314",
+        "android_client_info": {
+          "package_name": "com.danledev.latestserieshub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843611395709-7plnbss01a57kqov7cud1eovbsnevlbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClDuaUdFOMa9506R2BprgjEOvBa1dW2EE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843611395709-7plnbss01a57kqov7cud1eovbsnevlbn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "843611395709-33cooo7519cvfhghacvet2jutos4g4hj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fredtheedev.ntvApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843611395709:android:db5cc93354dab3133c0314",
+        "android_client_info": {
+          "package_name": "com.danledev.livesportshub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843611395709-7plnbss01a57kqov7cud1eovbsnevlbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClDuaUdFOMa9506R2BprgjEOvBa1dW2EE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843611395709-7plnbss01a57kqov7cud1eovbsnevlbn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "843611395709-33cooo7519cvfhghacvet2jutos4g4hj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fredtheedev.ntvApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843611395709:android:af1fe9de46b0134f3c0314",
+        "android_client_info": {
+          "package_name": "com.fredtheedev.ntv_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843611395709-7plnbss01a57kqov7cud1eovbsnevlbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClDuaUdFOMa9506R2BprgjEOvBa1dW2EE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843611395709-7plnbss01a57kqov7cud1eovbsnevlbn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "843611395709-33cooo7519cvfhghacvet2jutos4g4hj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fredtheedev.ntvApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
